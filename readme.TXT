@@ -1,3 +1,2 @@
-hello world
-this is a txt to learn git
-git anything
+Git is a distributed version control system
+Git is free software distributed under the GPL
